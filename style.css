@@ -57,6 +57,7 @@ header h1 {
     font-family: var(--fonte-destaque);
     font-size: 3em;
     margin-bottom: 20px;
+    font-weight: normal;
     text-shadow: 2px 2px 0px rgba(0,0,0,0.267);
 
 }
@@ -113,7 +114,7 @@ main {
 
 main h1 {
     color: var(--cor5);
-    font-family: var(--fonte-android);
+    font-family:'idroid';
     font-weight: normal;
     font-size: 1.8em;
 }
