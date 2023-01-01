@@ -23,8 +23,9 @@
     --cor4: #1a5c37;
     --cor5: #063d1e;
     --fonte-padrao: Arial, Helvetica, sans-serif;
-    --fonte-destaque: 'Bebas';
-    --fonte-android: 'idroid';
+    --fonte-destaque: 'Bebas',cursive;
+    --fonte-android: 'idroid',cursive;
+    
 
 }
 
